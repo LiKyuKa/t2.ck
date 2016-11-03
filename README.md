@@ -1,3 +1,3 @@
 # PersonalCodeLibraryT2
-This is the Personal Code Library of Kyuka LI.
-Contains: Encrypting App
+就是各种杂七杂八的东西归在一起的2号数据库。
+这包括了一个还没写好的加密程序
